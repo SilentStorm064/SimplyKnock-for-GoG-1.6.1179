@@ -1,0 +1,4 @@
+LIBRARY	"simplyknock"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
